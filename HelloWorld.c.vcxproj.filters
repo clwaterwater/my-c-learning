@@ -45,5 +45,11 @@
     <ClCompile Include="second_converter.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="07_scanf_demo1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08_scanf_demo2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

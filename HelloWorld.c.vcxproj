@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="07_scanf_demo1.c" />
+    <ClCompile Include="08_scanf_demo2.c" />
     <ClCompile Include="constant.c" />
     <ClCompile Include="Hello_World.c" />
     <ClCompile Include="practice1.c" />
