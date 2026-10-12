@@ -22,6 +22,7 @@
     <ClCompile Include="constant.c" />
     <ClCompile Include="Hello_World.c" />
     <ClCompile Include="practice1.c" />
+    <ClCompile Include="second_converter.c" />
     <ClCompile Include="variable.demo.1.c" />
     <ClCompile Include="variable.demo.2.c" />
     <ClCompile Include="variable.demo.3.c" />

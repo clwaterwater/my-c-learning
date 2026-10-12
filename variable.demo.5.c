@@ -1,10 +1,10 @@
-//#include <stdio.h>
+ï»¿//#include <stdio.h>
 
 //int main()
 //{
-//	//1.¶¨Òåfloat¡¢double¡¢long doubleÊı¾İÀàĞÍµÄ±äÁ¿
+//	//1.å®šä¹‰floatã€doubleã€long doubleæ•°æ®ç±»å‹çš„å˜é‡
 //	//float 
-//	float a = 3.14F;//windowsÄ¬ÈÏĞ¡Êı¸³ÖµdoubleÀàĞÍµÄ£¬¸³Öµ³ÉfloatÀàĞÍµÄÒªÔÚÄ©Î²¼ÓF
+//	float a = 3.14F;//windowsé»˜è®¤å°æ•°èµ‹å€¼doubleç±»å‹çš„ï¼Œèµ‹å€¼æˆfloatç±»å‹çš„è¦åœ¨æœ«å°¾åŠ F
 //	printf("%.2f\n", a);
 //
 //	//double
@@ -15,9 +15,9 @@
 //	long double c = 3.1415926;
 //	printf("%lf\n", c);
 //
-//	//2.ÀûÓÃsizeof²âÁ¿Ã¿Ò»ÖÖÊı¾İÀàĞÍÕ¼¶àÉÙ×Ö½Ú
+//	//2.åˆ©ç”¨sizeofæµ‹é‡æ¯ä¸€ç§æ•°æ®ç±»å‹å å¤šå°‘å­—èŠ‚
 //	printf("%zu\n", sizeof(float));
 //	printf("%zu\n", sizeof(a));
 //
-//	//3.Ğ¡ÊıµÄÊı¾İÀàĞÍÎŞ·¨¸úunsigned×éºÏÊ¹ÓÃ
+//	//3.å°æ•°çš„æ•°æ®ç±»å‹æ— æ³•è·Ÿunsignedç»„åˆä½¿ç”¨
 //}

@@ -1,7 +1,7 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 //int main()
 //{
-//	printf("ÎÒµÄÑ§Ğ£ÊÇ:%s", "¹ğÁÖÊ®°ËÖĞ");
+//	printf("æˆ‘çš„å­¦æ ¡æ˜¯:%s", "æ¡‚æ—åå…«ä¸­");
 //	return 0;
 //}

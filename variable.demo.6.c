@@ -1,20 +1,20 @@
-#include<stdio.h>
+ï»¿#include<stdio.h>
 
-int main()
-{
-	//1.¶¨ÒåcharÊı¾İÀàĞÍµÄ±äÁ¿
-	char c1 = 'a';
-	printf("%c\n", c1);
-
-
-	char c2 = '1';
-	printf("%c\n", c2);
-
-	char c3 = 'A';
-	printf("%c\n", c3);
-
-	char c4 = '.';
-	printf("%c\n", c4);
-	//2.ÀûÓÃsizeof²âÁ¿Õ¼ÓÃ¶àÉÙ×Ö½Ú
-	printf("%zu\n", sizeof(char));
-}
+//int main()
+//{
+//	//1.å®šä¹‰charæ•°æ®ç±»å‹çš„å˜é‡
+//	char c1 = 'a';
+//	printf("%c\n", c1);
+//
+//
+//	char c2 = '1';
+//	printf("%c\n", c2);
+//
+//	char c3 = 'A';
+//	printf("%c\n", c3);
+//
+//	char c4 = '.';
+//	printf("%c\n", c4);
+//	//2.åˆ©ç”¨sizeofæµ‹é‡å ç”¨å¤šå°‘å­—èŠ‚
+//	printf("%zu\n", sizeof(char));
+//}
