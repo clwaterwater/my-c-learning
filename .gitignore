@@ -2,10 +2,21 @@
 .vs/
 *.user
 
-# 编译出来的东西（随时能重新生成）
+# 编译出来的东西（随时能重新生成，不用上传）
 x64/
 Debug/
 Release/
 
-# 上次 VS 复制项目留下的临时文件夹
-HelloWor.39cbb0b3/
+# 编译中间产物（VS 每建一个项目都会生成这些）
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.recipe
+*.lastbuildstate
+*.log
+*.command
+
+# WorkBuddy 的工作目录（本地数据，不该上传到公开仓库）
+.workbuddy/

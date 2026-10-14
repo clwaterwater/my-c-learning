@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -19,26 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="07_scanf_demo1.c" />
-    <ClCompile Include="08_scanf_demo2.c" />
-    <ClCompile Include="constant.c" />
-    <ClCompile Include="Hello_World.c" />
-    <ClCompile Include="practice1.c" />
-    <ClCompile Include="second_converter.c" />
-    <ClCompile Include="variable.demo.1.c" />
-    <ClCompile Include="variable.demo.2.c" />
-    <ClCompile Include="variable.demo.3.c" />
-    <ClCompile Include="variable.demo.4.c" />
-    <ClCompile Include="variable.demo.5.c" />
-    <ClCompile Include="variable.demo.6.c" />
+    <ClCompile Include="scanf_demo2.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{39cbb0b3-3308-4c8b-8322-1367c6e40d69}</ProjectGuid>
-    <RootNamespace>HelloWorldc</RootNamespace>
+    <ProjectGuid>{b3cf8444-6fb5-4d9d-9917-ade97a0efeb6}</ProjectGuid>
+    <RootNamespace>12_scanf_demo2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>HelloWorld-practice</ProjectName>
+    <ProjectName>12_scanf_demo2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -66,6 +55,10 @@
     <PlatformToolset>v145</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OutDir>$(SolutionDir)x64\$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)x64\obj\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">

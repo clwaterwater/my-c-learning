@@ -1,0 +1,17 @@
+﻿#include<stdio.h>
+
+int main()
+{
+	//键盘录入的基本使用
+
+	//1.定义一个变量用来接收数据
+	int a;
+
+	//2.键盘录入
+	printf("请输入一个整数");
+	scanf_s("%d", &a);
+
+	//3.打印
+	printf("变量里面的值为：%d\n", a);
+	return 0;
+}

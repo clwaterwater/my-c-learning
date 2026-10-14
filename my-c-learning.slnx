@@ -1,0 +1,18 @@
+﻿<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_HelloWorld/01_HelloWorld.vcxproj" Id="0c7b4ab0-325b-487d-af26-0186f1f7bd32" />
+  <Project Path="02_printf_practice/02_printf_practice.vcxproj" Id="7972911b-c7c1-4315-bd18-fd097ec010f6" />
+  <Project Path="03_constant/03_constant.vcxproj" Id="1967f56a-18d6-495c-99c1-4dfc9f052bfc" />
+  <Project Path="04_variable_1/04_variable_1.vcxproj" Id="9146c205-d18a-4b88-8d28-77201a832a81" />
+  <Project Path="05_variable_2/05_variable_2.vcxproj" Id="3798b1da-26e8-4db4-a326-5664590b0ade" />
+  <Project Path="06_variable_3/06_variable_3.vcxproj" Id="38bb7156-79f4-422b-a141-68575cfb1d75" />
+  <Project Path="07_variable_4/07_variable_4.vcxproj" Id="ee0621ba-6ffb-4663-b6ea-e6605c8cb305" />
+  <Project Path="08_variable_5/08_variable_5.vcxproj" Id="0b3a7cec-f7fc-4ed6-a85c-d80d8bbd24ad" />
+  <Project Path="09_variable_6/09_variable_6.vcxproj" Id="4ccf806e-1527-4fc8-9440-decd90ef47d4" />
+  <Project Path="10_second_converter/10_second_converter.vcxproj" Id="f5a04fed-5ba0-44f9-952d-72feac2cc20d" />
+  <Project Path="11_scanf_demo1/11_scanf_demo1.vcxproj" Id="5e18cc30-958e-4357-a7f6-c30fb2c53b7c" />
+  <Project Path="12_scanf_demo2/12_scanf_demo2.vcxproj" Id="b3cf8444-6fb5-4d9d-9917-ade97a0efeb6" />
+</Solution>
