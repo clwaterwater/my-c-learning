@@ -1,4 +1,4 @@
-﻿<Solution>
+<Solution>
   <Configurations>
     <Platform Name="x64" />
     <Platform Name="x86" />
@@ -15,4 +15,5 @@
   <Project Path="10_second_converter/10_second_converter.vcxproj" Id="f5a04fed-5ba0-44f9-952d-72feac2cc20d" />
   <Project Path="11_scanf_demo1/11_scanf_demo1.vcxproj" Id="5e18cc30-958e-4357-a7f6-c30fb2c53b7c" />
   <Project Path="12_scanf_demo2/12_scanf_demo2.vcxproj" Id="b3cf8444-6fb5-4d9d-9917-ade97a0efeb6" />
+  <Project Path="13_scanf_calc/13_scanf_calc.vcxproj" Id="6259a5ab-4cdd-4995-ad81-5b9143946ccc" />
 </Solution>
