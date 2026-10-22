@@ -23,4 +23,5 @@
   <Project Path="18_operator_demo3/18_operator_demo3.vcxproj" Id="4776d22c-3dd9-47d3-ab5a-5449f3e0873d" />
   <Project Path="19_operator_demo4/19_operator_demo4.vcxproj" Id="6c31095a-4c29-4786-a774-adfdda22bbf8" />
   <Project Path="20_operator_demo5/20_operator_demo5.vcxproj" Id="ef95092b-cf3a-4180-8c68-52582b1618e3" />
+  <Project Path="21_operator_demo6/21_operator_demo6.vcxproj" Id="da8105c5-323c-4793-8f68-4ea58a6bb379" />
 </Solution>
