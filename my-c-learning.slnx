@@ -1,30 +1,35 @@
-<Solution>
+﻿<Solution>
   <Configurations>
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01_HelloWorld/01_HelloWorld.vcxproj" Id="0c7b4ab0-325b-487d-af26-0186f1f7bd32" />
-  <Project Path="02_printf_practice/02_printf_practice.vcxproj" Id="7972911b-c7c1-4315-bd18-fd097ec010f6" />
-  <Project Path="03_constant/03_constant.vcxproj" Id="1967f56a-18d6-495c-99c1-4dfc9f052bfc" />
-  <Project Path="04_variable_1/04_variable_1.vcxproj" Id="9146c205-d18a-4b88-8d28-77201a832a81" />
-  <Project Path="05_variable_2/05_variable_2.vcxproj" Id="3798b1da-26e8-4db4-a326-5664590b0ade" />
-  <Project Path="06_variable_3/06_variable_3.vcxproj" Id="38bb7156-79f4-422b-a141-68575cfb1d75" />
-  <Project Path="07_variable_4/07_variable_4.vcxproj" Id="ee0621ba-6ffb-4663-b6ea-e6605c8cb305" />
-  <Project Path="08_variable_5/08_variable_5.vcxproj" Id="0b3a7cec-f7fc-4ed6-a85c-d80d8bbd24ad" />
-  <Project Path="09_variable_6/09_variable_6.vcxproj" Id="4ccf806e-1527-4fc8-9440-decd90ef47d4" />
-  <Project Path="10_second_converter/10_second_converter.vcxproj" Id="f5a04fed-5ba0-44f9-952d-72feac2cc20d" />
-  <Project Path="11_scanf_demo1/11_scanf_demo1.vcxproj" Id="5e18cc30-958e-4357-a7f6-c30fb2c53b7c" />
-  <Project Path="12_scanf_demo2/12_scanf_demo2.vcxproj" Id="b3cf8444-6fb5-4d9d-9917-ade97a0efeb6" />
-  <Project Path="12_scanf_demo3/12_scanf_demo3.vcxproj" Id="3bc9c1c0-f078-45ed-8af4-f9bb06548e6a" />
-  <Project Path="13_scanf_calc/13_scanf_calc.vcxproj" Id="6259a5ab-4cdd-4995-ad81-5b9143946ccc" />
-  <Project Path="15_scanf_demo4/15_scanf_demo4.vcxproj" Id="a6124ed7-3394-446a-9bdf-a053ea39ab3e" />
-  <Project Path="16_operator_demo1/16_operator_demo1.vcxproj" Id="c1506309-c199-43f9-b500-cd35dbc5358f" />
-  <Project Path="17_operator_practice1/17_operator_practice1.vcxproj" Id="02575706-eb35-491d-b5f2-be71f8af187a" />
-  <Project Path="18_operator_demo3/18_operator_demo3.vcxproj" Id="4776d22c-3dd9-47d3-ab5a-5449f3e0873d" />
-  <Project Path="19_operator_demo4/19_operator_demo4.vcxproj" Id="6c31095a-4c29-4786-a774-adfdda22bbf8" />
-  <Project Path="20_operator_demo5/20_operator_demo5.vcxproj" Id="ef95092b-cf3a-4180-8c68-52582b1618e3" />
-  <Project Path="21_operator_demo6/21_operator_demo6.vcxproj" Id="da8105c5-323c-4793-8f68-4ea58a6bb379" />
-  <Project Path="22_operator_demo7/22_operator_demo7.vcxproj" Id="1bf15b67-5368-4d35-b08c-a9d6807ef33f" />
-  <Project Path="23_operator_demo8/23_operator_demo8.vcxproj" Id="87d30a05-54f5-4d4c-a028-ca2e3e4222c5" />
-  <Project Path="24_operator_practice/24_operator_practice.vcxproj" Id="f3bdf5ba-529b-4c14-a110-995eed68e5b9" />
+  <Project Path="01_hello_world/01_hello_world.vcxproj" Id="0447a3df-e67b-436d-893e-84a0ad520626" />
+  <Project Path="02_printf_format/02_printf_format.vcxproj" Id="793279af-8e40-44d6-b8a2-84c797f6f3fb" />
+  <Project Path="03_variable_basics/03_variable_basics.vcxproj" Id="20bfaf35-36f2-4392-860d-fe99973ab462" />
+  <Project Path="04_integer_types/04_integer_types.vcxproj" Id="49c160f0-9fda-4f4c-9dcd-c9537ecf12cb" />
+  <Project Path="05_signed_unsigned/05_signed_unsigned.vcxproj" Id="11bc9576-c092-4cb5-b9f6-5bff5ba41684" />
+  <Project Path="06_float_types/06_float_types.vcxproj" Id="5d49da62-d902-4ae1-9279-430a906adf3b" />
+  <Project Path="07_char_type/07_char_type.vcxproj" Id="15603dee-d9e3-46cc-aa03-43c51eb0eabc" />
+  <Project Path="08_second_converter/08_second_converter.vcxproj" Id="393b0ef4-25c1-4f95-becd-e73e8e8cad24" />
+  <Project Path="09_scanf_basic/09_scanf_basic.vcxproj" Id="d908b397-3aa9-4fdb-a18e-fa4826cbfe23" />
+  <Project Path="10_scanf_string/10_scanf_string.vcxproj" Id="2e72a140-11d0-4265-97c1-40e387a8f92e" />
+  <Project Path="11_scanf_multi/11_scanf_multi.vcxproj" Id="d57f1606-69a5-4851-86e9-b750b3fa8d76" />
+  <Project Path="12_scanf_calc/12_scanf_calc.vcxproj" Id="fadec6d3-9960-405c-b4b8-e9e1252e6898" />
+  <Project Path="13_box_volume/13_box_volume.vcxproj" Id="63808173-7c95-404e-9d42-680f5c384a48" />
+  <Project Path="14_arith_operators/14_arith_operators.vcxproj" Id="32047fca-dd7f-416e-83ee-fd3375a5dfe2" />
+  <Project Path="15_digit_split/15_digit_split.vcxproj" Id="65348848-580b-4522-81b3-06e54aada1cb" />
+  <Project Path="16_char_to_ascii/16_char_to_ascii.vcxproj" Id="a4b16681-785b-4558-b4d3-41e88c19c08d" />
+  <Project Path="17_increment_operator/17_increment_operator.vcxproj" Id="f016a033-f4f9-496e-94dd-32a123c262a3" />
+  <Project Path="18_compound_assignment/18_compound_assignment.vcxproj" Id="fb1e0a63-e2f9-490b-9c56-440a1a12281b" />
+  <Project Path="19_relational_operators/19_relational_operators.vcxproj" Id="43090f43-27b6-4a8d-9767-31835ea566a3" />
+  <Project Path="20_relational_judgement/20_relational_judgement.vcxproj" Id="d6df25c2-8750-4374-8f24-e3ba01c1c410" />
+  <Project Path="21_logical_operators/21_logical_operators.vcxproj" Id="2e58bd85-9725-4162-8724-9b56ef089ab7" />
+  <Project Path="22_logical_no_seven/22_logical_no_seven.vcxproj" Id="d998ca4d-a189-4bc3-b610-042feac6b526" />
+  <Project Path="23_ternary_operator/23_ternary_operator.vcxproj" Id="8aa902cf-5e45-4101-a068-e597dd252dd0" />
+  <Project Path="24_comma_operator/24_comma_operator.vcxproj" Id="622dbaec-53bc-4974-98cc-535fe9582fb0" />
+  <Project Path="25_if_else_chain/25_if_else_chain.vcxproj" Id="8228b93a-195e-47fe-a63a-9c7c4ed742fb" />
+  <Project Path="26_if_nested/26_if_nested.vcxproj" Id="34a2b6c3-2195-4529-a534-4e8bbdbbbb8e" />
+  <Project Path="27_operator_mixed/27_operator_mixed.vcxproj" Id="88feaca2-0024-43b9-8ce7-353df0b1eb9d" />
+  <Project Path="28_switch_season/28_switch_season.vcxproj" Id="4ce43afa-2f68-4553-b1ba-af50d3c6d62c" />
+  <Project Path="29_switch_ticket/29_switch_ticket.vcxproj" Id="ecaaaceb-fa7b-4d8d-9edf-e2aa827bff7c" />
 </Solution>

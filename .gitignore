@@ -1,14 +1,28 @@
-# VS 自己的缓存和本机设置
-.vs/
-*.user
+﻿# VS 的项目文件里，只有 .vcxproj 是必须提交的（它是项目说明书）。
+# 下面这些，要么 VS 会自己重建，要么只是本机偏好，一律不进仓库。
 
-# 编译出来的东西（随时能重新生成，不用上传）
+# ---------- VS 本机缓存 ----------
+.vs/
+
+# ---------- 本机个人偏好 ----------
+#   *.user 覆盖了 *.vcxproj.user（本机调试路径之类）
+#   *.DotSettings.user 覆盖了 *.sln.DotSettings.user（ReSharper 本机设置）
+*.user
+*.DotSettings.user
+
+# VS 左侧目录树怎么分组的配置文件，删了 VS 会自动重建
+*.vcxproj.filters
+
+# ---------- 编译产物 ----------
+# 输出目录（随时能重新生成，不用上传）
 x64/
+Win32/
 Debug/
 Release/
 
-# 编译中间产物（VS 每建一个项目都会生成这些）
+# 中间产物（VS 每建一个项目都会生成这些）
 *.obj
+*.exe
 *.pdb
 *.ilk
 *.idb
@@ -17,6 +31,7 @@ Release/
 *.lastbuildstate
 *.log
 *.command
+#（编译中间产物里还有 .vs)
 
 # WorkBuddy 的工作目录（本地数据，不该上传到公开仓库）
 .workbuddy/
